@@ -1,6 +1,6 @@
 {
     "atomType": "Molecule",
-    "name": "M4_Alt_SpindleLock",
+    "name": "M4_Alt_SpindleLock_IA",
     "x": 0,
     "y": 0,
     "uniqueID": 1745366029868,
@@ -11,8 +11,8 @@
         {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.98,
-            "y": 0.5,
+            "x": 0.9744897959183674,
+            "y": 0.4945770065075921,
             "uniqueID": 1745367617559,
             "ioValues": [
                 {
