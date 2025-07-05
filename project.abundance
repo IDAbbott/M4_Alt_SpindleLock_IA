@@ -923,7 +923,7 @@
             "type": "STL",
             "resolution": 96,
             "importIndex": 0,
-            "partName": "M4_Alt_SpindleLock"
+            "partName": "M4_Alt_SpindleLock_IA"
         },
         {
             "atomType": "Move",
@@ -950,6 +950,20 @@
                 }
             ],
             "description": "Moves a shape laterally in X, Y, Z."
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.21024258760107817,
+            "y": 0.7183098591549296,
+            "uniqueID": "00e1b8aa-9dbc-4634-9c38-1da77944b347",
+            "ioValues": [],
+            "description": "Import Atom, let's you choose a type of file to import and use in your design.",
+            "fileName": "Sled.step",
+            "type": "STEP",
+            "SVGwidth": 10,
+            "repoOwner": "IDAbbott",
+            "repoName": "M4_Alt_SpindleLock_IA"
         }
     ],
     "allConnectors": [
@@ -991,6 +1005,6 @@
     ],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
-    "compiledBom": {},
+    "compiledBom": [],
     "filetypeVersion": 1
 }
