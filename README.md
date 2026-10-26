@@ -2,7 +2,7 @@
 
 # M4_Alt_SpindleLock_IA
 
-![](/project.svg)
+![](/project.png)
 
 
 
